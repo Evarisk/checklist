@@ -1,0 +1,13 @@
+Fonds de plans béton de coffrage niveau par niveau (incluant la hauteur sous plafond, l’épaisseur de dalle,
+les ouvertures) avec coupes des points singuliers,
+Matérialisation des zones à équiper,
+Spécification des modes constructifs (traditionnels, murs à coffrage intégré (type « prémurs », dalles alvéolées …),
+Plan d’installation de chantier (positionnement de la grue, des cantonnements de chantier, des réseaux aériens,
+des arbres …),
+Modes et types de stabilisation des coffrages verticaux,
+Hauteur maximum des coffrages à prendre en compte,
+Sens et durée du cycle des coffrages verticaux et horizontaux par niveau,
+Charges et stockages éventuels sur la PTE,
+Modénatures de la façade (dont balcons et acrotères),
+Cas particuliers d’utilisation des PTE (débords de façade, coffrage de balcons, support d’échafaudages et de
+tours d’étaiement, protections pour travaux de couverture, recette à matériaux …).
